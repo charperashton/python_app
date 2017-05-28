@@ -1,0 +1,7 @@
+{
+  "name": "API.AI Flights Webhook",
+  "description": "API.AI Flights Webhook",
+  "repository": "https://github.com/charperashton/agent_uni",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}
